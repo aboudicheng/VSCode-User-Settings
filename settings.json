@@ -1,0 +1,22 @@
+{
+    "window.zoomLevel": 1,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "explorer.confirmDelete": false,
+    "workbench.colorTheme": "Material Theme Ocean High Contrast",
+    "materialTheme.fixIconsRunning": false,
+    "workbench.iconTheme": "eq-material-theme-icons-ocean",
+    "explorer.confirmDragAndDrop": false,
+
+    //Inconsolata is also a good choice
+    "editor.fontFamily": "Droid Sans Mono",
+    "editor.fontSize": 16,
+    // Controls the line height. Use 0 to compute the lineHeight from the fontSize.
+    "editor.lineHeight": 24,
+    // Enables font ligatures
+    "editor.fontLigatures": true,
+    // Controls if file decorations should use badges.
+    "explorer.decorations.badges": false,
+    "terminal.integrated.fontFamily": "Droid Sans Mono"
+}
